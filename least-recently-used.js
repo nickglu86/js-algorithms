@@ -5,7 +5,7 @@ Create a data structure that implements the requirements of a Least Recently Use
  - `putItem` Create or update a key value pair in the cache. Evict the least recently used key if the size of keys exceeds the max capacity.
 */
 
-class LeastRecentlyUsed {
+export class LeastRecentlyUsed {
       constructor(capacity){
             this.capacity = capacity;
             this.cache = new Map();

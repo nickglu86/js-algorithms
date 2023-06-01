@@ -1,6 +1,6 @@
 //Create a function that takes a sorted array and a target value. Return the index of the target value in the array. If the target value is not in the array, return -1.
 
-const binarySearch = (array, target, start = 0, end = array.length - 1) => {
+export const binarySearch = (array, target, start = 0, end = array.length - 1) => {
       // case - target value not in the array
      if(start > end) return -1;
 
