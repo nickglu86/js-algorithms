@@ -1,6 +1,6 @@
-# JavaScript Simple Algorithms
+# JavaScript Simple Algorithms #
 
-The most frequently asked JS question on technical interviews.
+The most frequently asked JS questions in technical interviews.
 
 * ### Cumulative Sum ###
 Solving basic algorithms with plain JavaScript 
