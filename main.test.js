@@ -23,5 +23,6 @@ test('LeastRecentlyUsed item in cache', () => {
       cache.putItem(2, 'b');
       cache.putItem(1, 'a');
       expect(cache.getItem(1)).toBe('a')
+      expect(cache.oldestItem).toBe('a')
 })
 

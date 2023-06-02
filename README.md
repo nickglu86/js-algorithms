@@ -1,15 +1,15 @@
 # JavaScript Simple Algorithms
 
-## This is the most frequently asked to solve JS question/tasks on technical interviews ##
+## This is the most frequently asked JS question on technical interviews ##
 
-### Cumulative Sum ###
+* ### Cumulative Sum ###
 Solving basic algorithms with plain JavaScript 
 Create a function that takes an array of numbers and returns a number that is the sum of all values in the array.
 
-###  Binary Search ###
+* ###  Binary Search ###
 Create a function that takes a sorted array and a target value. Return the index of the target value in the array. If the target value is not in the array, return -1.
 
-### Least Recently Used (LRU) Cache ###
+* ### Least Recently Used (LRU) Cache ###
 Create a data structure that implements the requirements of a Least Recently Used (LRU) cache with O(1) average time complexity.
 
 - Initialize an object with a maxium capacity of elements.

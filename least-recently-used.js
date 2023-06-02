@@ -35,7 +35,7 @@ export class LeastRecentlyUsed {
       }
 
       get oldestItem() {
-           this.cache.keys.next().value;
+          return this.cache.keys().next().value;
       } 
 }
 
@@ -43,3 +43,4 @@ export class LeastRecentlyUsed {
 // cache.putItem('a', 1);
 // console.log(cache);
 // console.log(cache.getItem('a'));
+// console.log(cache.oldestItem);
