@@ -3,7 +3,6 @@
 The most frequently asked JS questions in technical interviews.
 
 * ### Cumulative Sum ###
-Solving basic algorithms with plain JavaScript 
 Create a function that takes an array of numbers and returns a number that is the sum of all values in the array.
 
 * ###  Binary Search ###
